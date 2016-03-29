@@ -16,7 +16,7 @@ public class data {
                                     if ( k >= ( i - j )){
                                         System.out.print("*");
                                     }else{
-                                        System.out.print(" ");    
+                                        System.out.print("0");    
                                     }
 
                                 }
@@ -25,7 +25,7 @@ public class data {
                                     if ( k <= j){
                                         System.out.print("*");
                                     }else{
-                                        System.out.print(" ");
+                                        System.out.print("0");
                                     }
                                 }
                                 System.out.println("");
@@ -38,7 +38,7 @@ public class data {
                     if ( k >= ( i - j )){
                         System.out.print("*");
                     }else{
-                        System.out.print(" ");    
+                        System.out.print("0");    
                     }
 
                 }
@@ -47,7 +47,7 @@ public class data {
                     if ( k <= j){
                         System.out.print("*");
                     }else{
-                        System.out.print(" ");
+                        System.out.print("0");
                     }
                 }
                 System.out.println("");
